@@ -29,7 +29,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ubuntu-optimization-script.git
+   git clone https://github.com/RamRendeznous/ubuntu-optimization-script.git
    cd ubuntu-optimization-script
    ```
 
